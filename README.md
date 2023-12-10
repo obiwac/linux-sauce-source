@@ -16,3 +16,7 @@ Add a tablespoon of the brown sugar, and wait for it to incorporate.
 Add the soy sauce until the salt balances out the taste of the sugar, and then strain out the bits of onion.
 
 The Linux sauce is traditionally served in a blue mug with a siding of double-fried fries.
+
+At the end, the result should look like this:
+
+![Artist's representation of Linux sauce](artists-representation.png)
